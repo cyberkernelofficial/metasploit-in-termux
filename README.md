@@ -23,11 +23,12 @@ This guide will walk you through the process of installing Metasploit on your An
 - Post-exploitation tools for system administration.
 
 ## Video Tutorial
-[Watch our step-by-step video tutorial on installing Metasploit in Termux without root](#video-tutorial).
+To install Metasploit, you need to install Termux. To learn how, watch this video:
+[![How to Install Termux in android without error](http://img.youtube.com/vi/VgWVyazY8Ow/0.jpg)](http://www.youtube.com/watch?v=VgWVyazY8Ow "How to Install Termux in android without error")
 
 ## Installation
 To install Metasploit on Termux without root access, follow these steps:
-1. Download termux from fdroid. Watch [this video]() for visual presentation.
+1. Download termux from fdroid. Watch [this video](https://youtu.be/VgWVyazY8Ow) for visual presentation.
 2. Open Termux on your Android device.
 3. Run the following command:
 ```bash
