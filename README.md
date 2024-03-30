@@ -31,6 +31,7 @@ To install Metasploit on Termux without root access, follow these steps:
 2. Open Termux on your Android device.
 3. Run the following command:
 ```bash
+curl -s https://raw.githubusercontent.com/cyberkernelofficial/metasploit-in-termux/main/msf.sh
 ```
 4. Follow the on-screen instructions to complete the installation.
 
